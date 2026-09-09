@@ -1,0 +1,6 @@
+{
+  "name": "AutoNolo Riviera - Noleggio Auto",
+  "description": "Sito web per azienda locale di noleggio auto con flotta moderna, galleria fotografica e contatti diretti.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
